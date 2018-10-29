@@ -19,16 +19,19 @@ Only Deep Learning based methods for now.
 NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
 
 - 2017
+
 |Methods |   |   |   |   |   |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Amulet | UCF| SRM | MSRNet | NLDF | DSS |
 
 - 2016
+
 |Methods |   |   |   |   |   |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | RFCN | SCSD-HS| DS | ELD | DCL | DHS |
 
 - 2015
+
 |Methods |   |   |
 | :-: | :-: | :-: |
 | LEGS | MCDL| MDF |
