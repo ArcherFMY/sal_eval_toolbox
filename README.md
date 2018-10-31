@@ -294,6 +294,45 @@ All saliency maps are provided by the authors or calculated using their released
 ```
 #### algorithms
 ```
+% BMPM
+@inproceedings{zhang2018bi,
+  title={A Bi-Directional Message Passing Model for Salient Object Detection},
+  author={Zhang, Lu and Dai, Ju and Lu, Huchuan and He, You and Wang, Gang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1741--1750},
+  year={2018}
+}
+```
+```
+% DGRL
+@inproceedings{wang2018detect,
+  title={Detect Globally, Refine Locally: A Novel Approach to Saliency Detection},
+  author={Wang, Tiantian and Zhang, Lihe and Wang, Shuo and Lu, Huchuan and Yang, Gang and Ruan, Xiang and Borji, Ali},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3127--3135},
+  year={2018}
+}
+```
+```
+% PAGR
+@inproceedings{zhang2018progressive,
+  title={Progressive Attention Guided Recurrent Network for Salient Object Detection},
+  author={Zhang, Xiaoning and Wang, Tiantian and Qi, Jinqing and Lu, Huchuan and Wang, Gang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={714--722},
+  year={2018}
+}
+```
+```
+% RAS
+@inproceedings{chen2018eccv, 
+  author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong}, 
+  booktitle={European Conference on Computer Vision}, 
+  title={Reverse Attention for Salient Object Detection}, 
+  year={2018}
+} 
+```
+```
 % Amulet
 @inproceedings{zhang2017amulet,
   title={Amulet: Aggregating multi-level convolutional features for salient object detection},
