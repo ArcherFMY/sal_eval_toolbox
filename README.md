@@ -48,10 +48,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### ECSSD
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| BMPM | 2018     |    |    |    |    |    |
+| BMPM | 2018     |.929|.869|.045|.911|.838|
 | DGRL | 2018     |    |    |    |    |    |
-| PAGR | 2018     |    |    |    |    |    |
-| RAS | 2018      |    |    |    |    |    |
+| PAGR | 2018     |.927|.894|.061|.889|.806|
+| RAS | 2018      |.921|.889|.056|.893|.808|
 | Amulet | 2017   |.915|.870|.059|.894|.800|
 | UCF | 2017      |.911|.840|.078|.883|.785|
 | SRM | 2017      |.917|.892|.054|.895|.796|
@@ -71,10 +71,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### PASCAL-S
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| BMPM | 2018    |    |    |    |    |    |
+| BMPM | 2018    |.862|.769|.074|.845|.732|
 | DGRL | 2018    |    |    |    |    |    |
-| PAGR | 2018    |    |    |    |    |    |
-| RAS | 2018     |    |    |    |    |    |
+| PAGR | 2018    |.856|.807|.093|.818|.690|
+| RAS | 2018     |.837|.785|.104|.795|.658|
 | Amulet | 2017  |.837|.768|.098|.820|.690|
 | UCF | 2017     |.828|.706|.126|.803|.664|
 | SRM | 2017     |.847|.801|.085|.832|.695|
@@ -94,10 +94,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUT-OMRON
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| BMPM | 2018    |    |    |    |    |    |
+| BMPM | 2018    |.774|.692|.637|.809|.632|
 | DGRL | 2018    |    |    |    |    |    |
-| PAGR | 2018    |    |    |    |    |    |
-| RAS | 2018     |    |    |    |    |    |
+| PAGR | 2018    |.771|.711|.071|.775|.586|
+| RAS | 2018     |.786|.713|.062|.814|.638|
 | Amulet | 2017  |.742|.647|.098|.780|.594|
 | UCF | 2017     |.734|.613|.132|.758|.580|
 | SRM | 2017     |.769|.707|.069|.797|.605|
@@ -117,10 +117,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### HKU-IS
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| BMPM | 2018    |    |    |    |    |    |
+| BMPM | 2018    |.921|.871|.039|.907|.818|
 | DGRL | 2018    |    |    |    |    |    |
-| PAGR | 2018    |    |    |    |    |    |
-| RAS | 2018     |    |    |    |    |    |
+| PAGR | 2018    |.918|.886|.048|.887|.791|
+| RAS | 2018     |.913|.871|.045|.887|.788|
 | Amulet | 2017  |.895|.839|.052|.883|.772|
 | UCF | 2017     |.886|.808|.074|.866|.747|
 | SRM | 2017     |.906|.874|.046|.887|.772|
@@ -140,10 +140,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUTS-test
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| BMPM | 2018    |    |    |    |    |    |
+| BMPM | 2018    |.851|.751|.049|.861|.706|
 | DGRL | 2018    |    |    |    |    |    |
-| PAGR | 2018    |    |    |    |    |    |
-| RAS | 2018     |    |    |    |    |    |
+| PAGR | 2018    |.855|.788|.056|.837|.685|
+| RAS | 2018     |.831|.755|.060|.839|.675|
 | Amulet | 2017  |.778|.676|.085|.803|.615|
 | UCF | 2017     |.771|.629|.117|.778|.598|
 | SRM | 2017     |.827|.757|.059|.834|.657|
@@ -163,10 +163,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### SOD
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| BMPM | 2018    |    |    |    |    |    |
+| BMPM | 2018    |.855|.763|.107|.787|.675|
 | DGRL | 2018    |    |    |    |    |    |
 | PAGR | 2018    |    |    |    |    |    |
-| RAS | 2018     |    |    |    |    |    |
+| RAS | 2018     |.850|.799|.124|.764|.644|
 | Amulet | 2017  |.806|.755|.141|.758|.619|
 | UCF | 2017     |.803|.699|.164|.754|.601|
 | SRM | 2017     |.843|.800|.127|.742|.636|
