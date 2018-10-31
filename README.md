@@ -18,6 +18,12 @@ Only Deep Learning based methods for now.
 
 NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
 
+- 2018
+
+|Methods |   |   |   |
+| :-: | :-: | :-: | :-: |
+| BMPM | DGRL| PAGR | RAS |
+
 - 2017
 
 |Methods |   |   |   |   |   |
@@ -42,6 +48,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### ECSSD
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| BMPM | 2018     |    |    |    |    |    |
+| DGRL | 2018     |    |    |    |    |    |
+| PAGR | 2018     |    |    |    |    |    |
+| RAS | 2018      |    |    |    |    |    |
 | Amulet | 2017   |.915|.870|.059|.894|.800|
 | UCF | 2017      |.911|.840|.078|.883|.785|
 | SRM | 2017      |.917|.892|.054|.895|.796|
@@ -61,6 +71,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### PASCAL-S
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| BMPM | 2018    |    |    |    |    |    |
+| DGRL | 2018    |    |    |    |    |    |
+| PAGR | 2018    |    |    |    |    |    |
+| RAS | 2018     |    |    |    |    |    |
 | Amulet | 2017  |.837|.768|.098|.820|.690|
 | UCF | 2017     |.828|.706|.126|.803|.664|
 | SRM | 2017     |.847|.801|.085|.832|.695|
@@ -80,6 +94,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUT-OMRON
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| BMPM | 2018    |    |    |    |    |    |
+| DGRL | 2018    |    |    |    |    |    |
+| PAGR | 2018    |    |    |    |    |    |
+| RAS | 2018     |    |    |    |    |    |
 | Amulet | 2017  |.742|.647|.098|.780|.594|
 | UCF | 2017     |.734|.613|.132|.758|.580|
 | SRM | 2017     |.769|.707|.069|.797|.605|
@@ -99,6 +117,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### HKU-IS
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| BMPM | 2018    |    |    |    |    |    |
+| DGRL | 2018    |    |    |    |    |    |
+| PAGR | 2018    |    |    |    |    |    |
+| RAS | 2018     |    |    |    |    |    |
 | Amulet | 2017  |.895|.839|.052|.883|.772|
 | UCF | 2017     |.886|.808|.074|.866|.747|
 | SRM | 2017     |.906|.874|.046|.887|.772|
@@ -118,6 +140,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUTS-test
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| BMPM | 2018    |    |    |    |    |    |
+| DGRL | 2018    |    |    |    |    |    |
+| PAGR | 2018    |    |    |    |    |    |
+| RAS | 2018     |    |    |    |    |    |
 | Amulet | 2017  |.778|.676|.085|.803|.615|
 | UCF | 2017     |.771|.629|.117|.778|.598|
 | SRM | 2017     |.827|.757|.059|.834|.657|
@@ -137,6 +163,10 @@ All saliency maps are provided by the authors or calculated using their released
 ### SOD
 |Methods | year | max F-measure | mean F-measure | MAE | S-measure | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| BMPM | 2018    |    |    |    |    |    |
+| DGRL | 2018    |    |    |    |    |    |
+| PAGR | 2018    |    |    |    |    |    |
+| RAS | 2018     |    |    |    |    |    |
 | Amulet | 2017  |.806|.755|.141|.758|.619|
 | UCF | 2017     |.803|.699|.164|.754|.601|
 | SRM | 2017     |.843|.800|.127|.742|.636|
