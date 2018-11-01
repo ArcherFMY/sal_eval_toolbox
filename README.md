@@ -49,7 +49,7 @@ All saliency maps are provided by the authors or calculated using their released
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | BMPM | 2018     |.929|.869|.045|.911|.838|
-| DGRL | 2018     |    |    |    |    |    |
+| DGRL | 2018     |.922|.906|.041|.903|.830|
 | PAGR | 2018     |.927|.894|.061|.889|.806|
 | RAS | 2018      |.921|.889|.056|.893|.808|
 | Amulet | 2017   |.915|.870|.059|.894|.800|
@@ -72,7 +72,7 @@ All saliency maps are provided by the authors or calculated using their released
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | BMPM | 2018    |.862|.769|.074|.845|.732|
-| DGRL | 2018    |    |    |    |    |    |
+| DGRL | 2018    |.854|.825|.072|.836|.736|
 | PAGR | 2018    |.856|.807|.093|.818|.690|
 | RAS | 2018     |.837|.785|.104|.795|.658|
 | Amulet | 2017  |.837|.768|.098|.820|.690|
@@ -95,7 +95,7 @@ All saliency maps are provided by the authors or calculated using their released
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | BMPM | 2018    |.774|.692|.637|.809|.632|
-| DGRL | 2018    |    |    |    |    |    |
+| DGRL | 2018    |.774|.733|.062|.806|.640|
 | PAGR | 2018    |.771|.711|.071|.775|.586|
 | RAS | 2018     |.786|.713|.062|.814|.638|
 | Amulet | 2017  |.742|.647|.098|.780|.594|
@@ -118,7 +118,7 @@ All saliency maps are provided by the authors or calculated using their released
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | BMPM | 2018    |.921|.871|.039|.907|.818|
-| DGRL | 2018    |    |    |    |    |    |
+| DGRL | 2018    |.910|.890|.036|.895|.802|
 | PAGR | 2018    |.918|.886|.048|.887|.791|
 | RAS | 2018     |.913|.871|.045|.887|.788|
 | Amulet | 2017  |.895|.839|.052|.883|.772|
@@ -141,7 +141,7 @@ All saliency maps are provided by the authors or calculated using their released
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | BMPM | 2018    |.851|.751|.049|.861|.706|
-| DGRL | 2018    |    |    |    |    |    |
+| DGRL | 2018    |.829|.798|.050|.841|.692|
 | PAGR | 2018    |.855|.788|.056|.837|.685|
 | RAS | 2018     |.831|.755|.060|.839|.675|
 | Amulet | 2017  |.778|.676|.085|.803|.615|
@@ -164,7 +164,7 @@ All saliency maps are provided by the authors or calculated using their released
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | BMPM | 2018    |.855|.763|.107|.787|.675|
-| DGRL | 2018    |    |    |    |    |    |
+| DGRL | 2018    |.845|.799|.104|.771|.655|
 | PAGR | 2018    |    |    |    |    |    |
 | RAS | 2018     |.850|.799|.124|.764|.644|
 | Amulet | 2017  |.806|.755|.141|.758|.619|
