@@ -20,9 +20,9 @@ NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Rea
 
 - 2018
 
-|Methods |   |   |   |
-| :-: | :-: | :-: | :-: |
-| BMPM | DGRL| PAGR | RAS |
+|Methods |   |   |   |   |   |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| BMPM | DGRL| PAGR | RAS | PiCANet | R3Net |
 
 - 2017
 
@@ -52,6 +52,9 @@ All saliency maps are provided by the authors or calculated using their released
 | DGRL | 2018     |.922|.906|.041|.903|.830|
 | PAGR | 2018     |.927|.894|.061|.889|.806|
 | RAS | 2018      |.921|.889|.056|.893|.808|
+| PiCANet | 2018  |.931|.884|.047|.914|.827|
+| PiCANet-C| 2018 |.932|.913|.036|.910|.844|
+| R3Net | 2018    |.931|.917|.046|.900|.831|
 | Amulet | 2017   |.915|.870|.059|.894|.800|
 | UCF | 2017      |.911|.840|.078|.883|.785|
 | SRM | 2017      |.917|.892|.054|.895|.796|
@@ -75,6 +78,9 @@ All saliency maps are provided by the authors or calculated using their released
 | DGRL | 2018    |.854|.825|.072|.836|.736|
 | PAGR | 2018    |.856|.807|.093|.818|.690|
 | RAS | 2018     |.837|.785|.104|.795|.658|
+| PiCANet | 2018 |.868|.801|.077|.850|.732|
+| PiCANet-C| 2018|.867|.833|.067|.843|.736|
+| R3Net | 2018   |.845|.807|.097|.800|.675|
 | Amulet | 2017  |.837|.768|.098|.820|.690|
 | UCF | 2017     |.828|.706|.126|.803|.664|
 | SRM | 2017     |.847|.801|.085|.832|.695|
@@ -98,6 +104,9 @@ All saliency maps are provided by the authors or calculated using their released
 | DGRL | 2018    |.774|.733|.062|.806|.640|
 | PAGR | 2018    |.771|.711|.071|.775|.586|
 | RAS | 2018     |.786|.713|.062|.814|.638|
+| PiCANet | 2018 |.794|.710|.680|.826|.657|
+| PiCANet-C| 2018|.784|.751|.057|.815|.647|
+| R3Net | 2018   |.792|.756|.061|.815|.642|
 | Amulet | 2017  |.742|.647|.098|.780|.594|
 | UCF | 2017     |.734|.613|.132|.758|.580|
 | SRM | 2017     |.769|.707|.069|.797|.605|
@@ -121,6 +130,9 @@ All saliency maps are provided by the authors or calculated using their released
 | DGRL | 2018    |.910|.890|.036|.895|.802|
 | PAGR | 2018    |.918|.886|.048|.887|.791|
 | RAS | 2018     |.913|.871|.045|.887|.788|
+| PiCANet | 2018 |.921|.870|.042|.906|.809|
+| PiCANet-C| 2018|.925|.907|.031|.904|.820|
+| R3Net | 2018   |.917|.905|.038|.891|.799|
 | Amulet | 2017  |.895|.839|.052|.883|.772|
 | UCF | 2017     |.886|.808|.074|.866|.747|
 | SRM | 2017     |.906|.874|.046|.887|.772|
@@ -144,6 +156,9 @@ All saliency maps are provided by the authors or calculated using their released
 | DGRL | 2018    |.829|.798|.050|.841|.692|
 | PAGR | 2018    |.855|.788|.056|.837|.685|
 | RAS | 2018     |.831|.755|.060|.839|.675|
+| PiCANet | 2018 |.851|.755|.054|.861|.700|
+| PiCANet-C| 2018|.850|.818|.046|.850|.702|
+| R3Net | 2018   |.828|.796|.059|.829|.665|
 | Amulet | 2017  |.778|.676|.085|.803|.615|
 | UCF | 2017     |.771|.629|.117|.778|.598|
 | SRM | 2017     |.827|.757|.059|.834|.657|
@@ -167,10 +182,13 @@ All saliency maps are provided by the authors or calculated using their released
 | DGRL | 2018    |.845|.799|.104|.771|.655|
 | PAGR | 2018    |    |    |    |    |    |
 | RAS | 2018     |.850|.799|.124|.764|.644|
+| PiCANet | 2018 |.853|.791|.102|.791|.679|
+| PiCANet-C| 2018|.836|.800|.087|.772|.669|
+| R3Net | 2018   |.836|.789|.136|.732|.600|
 | Amulet | 2017  |.806|.755|.141|.758|.619|
 | UCF | 2017     |.803|.699|.164|.754|.601|
 | SRM | 2017     |.843|.800|.127|.742|.636|
-| MSRNet | 2017  |    |    |    |    |    |
+| MSRNet | 2017  |.836|.741|.113|.779|.653|
 | NLDF | 2017    |.841|.791|.124|.757|.654|
 | DSS | 2017     |.844|.795|.121|.751|.651|
 | RFCN | 2016    |.799|.751|.170|.730|.602|
@@ -331,6 +349,25 @@ All saliency maps are provided by the authors or calculated using their released
   title={Reverse Attention for Salient Object Detection}, 
   year={2018}
 } 
+```
+```
+% PiCANet
+@inproceedings{liu2018picanet,
+  title={PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection},
+  author={Liu, Nian and Han, Junwei and Yang, Ming-Hsuan},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3089--3098},
+  year={2018}
+}
+```
+```
+% R3Net
+@inproceedings{deng18r,
+  author = {Deng, Zijun and Hu, Xiaowei and Zhu, Lei and Xu, Xuemiao and Qin, Jing and Han, Guoqiang and Heng, Pheng-Ann},
+  title = {R$^{3}${N}et: Recurrent Residual Refinement Network for Saliency Detection},
+  booktitle = {IJCAI},
+  year = {2018}
+}
 ```
 ```
 % Amulet
