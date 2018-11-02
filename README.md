@@ -100,11 +100,11 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUT-OMRON
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| BMPM | 2018    |.774|.692|.637|.809|.632|
+| BMPM | 2018    |.774|.692|.064|.809|.632|
 | DGRL | 2018    |.774|.733|.062|.806|.640|
 | PAGR | 2018    |.771|.711|.071|.775|.586|
 | RAS | 2018     |.786|.713|.062|.814|.638|
-| PiCANet | 2018 |.794|.710|.680|.826|.657|
+| PiCANet | 2018 |.794|.710|.068|.826|.657|
 | PiCANet-C| 2018|.784|.751|.057|.815|.647|
 | R3Net | 2018   |.792|.756|.061|.815|.642|
 | Amulet | 2017  |.742|.647|.098|.780|.594|
@@ -533,7 +533,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 ## TODO
 
-- [ ] add scores in [Table](#table)
+- [x] add scores in [Table](#table)
 - [ ] add evaluation codes
 - [ ] add pre-computed `.mat` files
 - [ ] add pre-computed saliency maps (Emm...)
