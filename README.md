@@ -48,6 +48,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### ECSSD
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ours | -     |.935|.908|.042|.914|.839|
 | BMPM | 2018     |.929|.869|.045|.911|.838|
 | DGRL | 2018     |.922|.906|.041|.903|.830|
 | PAGR | 2018     |.927|.894|.061|.889|.806|
@@ -74,6 +75,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### PASCAL-S
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ours | -     |.868|.826|.071|.849|.736|
 | BMPM | 2018    |.862|.769|.074|.845|.732|
 | DGRL | 2018    |.854|.825|.072|.836|.736|
 | PAGR | 2018    |.856|.807|.093|.818|.690|
@@ -100,6 +102,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUT-OMRON
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ours | -     |.797|.738|.057|.826|.653|
 | BMPM | 2018    |.774|.692|.064|.809|.632|
 | DGRL | 2018    |.774|.733|.062|.806|.640|
 | PAGR | 2018    |.771|.711|.071|.775|.586|
@@ -126,6 +129,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### HKU-IS
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ours | -     |.923|.888|.036|.905|.814|
 | BMPM | 2018    |.921|.871|.039|.907|.818|
 | DGRL | 2018    |.910|.890|.036|.895|.802|
 | PAGR | 2018    |.918|.886|.048|.887|.791|
@@ -152,6 +156,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUTS-test
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ours | -     |.862|.797|.046|.866|.721|
 | BMPM | 2018    |.851|.751|.049|.861|.706|
 | DGRL | 2018    |.829|.798|.050|.841|.692|
 | PAGR | 2018    |.855|.788|.056|.837|.685|
@@ -178,6 +183,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### SOD
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ours | -     |.856|.809|.109|.777|.670|
 | BMPM | 2018    |.855|.763|.107|.787|.675|
 | DGRL | 2018    |.845|.799|.104|.771|.655|
 | PAGR | 2018    |    |    |    |    |    |
