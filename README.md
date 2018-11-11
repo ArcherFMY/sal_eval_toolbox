@@ -46,7 +46,7 @@ NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Rea
 All saliency maps are provided by the authors or calculated using their released codes.
 
 ### ECSSD
-|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
+|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.935|.908|.042|.914|.839|
 | BMPM | 2018     |.929|.869|.045|.911|.838|
@@ -73,7 +73,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015      |.832|.807|.105|.776|.641|
 
 ### PASCAL-S
-|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
+|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.868|.826|.071|.849|.736|
 | BMPM | 2018    |.862|.769|.074|.845|.732|
@@ -100,7 +100,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015     |.768|.709|.146|.692|.541|
 
 ### DUT-OMRON
-|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
+|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.797|.738|.057|.826|.653|
 | BMPM | 2018    |.774|.692|.064|.809|.632|
@@ -127,7 +127,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015     |.694|.644|.092|.721|.490|
 
 ### HKU-IS
-|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
+|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.923|.888|.036|.905|.814|
 | BMPM | 2018    |.921|.871|.039|.907|.818|
@@ -154,7 +154,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015     |.861|.784|.129|.810|.688|
 
 ### DUTS-test
-|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
+|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.862|.797|.046|.866|.721|
 | BMPM | 2018    |.851|.751|.049|.861|.706|
@@ -181,7 +181,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015     |.730|.673|.094|.732|.504|
 
 ### SOD
-|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | mIoU |
+|Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.856|.809|.109|.777|.670|
 | BMPM | 2018    |.855|.763|.107|.787|.675|
