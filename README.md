@@ -48,6 +48,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### ECSSD
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1V0VHa0K1wueXKAmseD2vEQ)
+> pre-computed `.mat` files [[BaiduYun]](dd)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -78,6 +79,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### PASCAL-S
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1trqJcCDSNNn08Dr6t_45Dw)
+> pre-computed `.mat` files [[BaiduYun]](dd)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -108,6 +110,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUT-OMRON
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1mDA7R5K-hr-mfGZi0FsEfw)
+> pre-computed `.mat` files [[BaiduYun]](dd)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -138,6 +141,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### HKU-IS
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1N64zLo7p0Z3f2aK1d9y0Bw)
+> pre-computed `.mat` files [[BaiduYun]](dd)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -168,6 +172,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### DUTS-test
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/19a26OE0wyrelxFned0cI9w)
+> pre-computed `.mat` files [[BaiduYun]](dd)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -198,6 +203,7 @@ All saliency maps are provided by the authors or calculated using their released
 ### SOD
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1jG0vQ_Ppw9xlCUEvae7s5g)
+> pre-computed `.mat` files [[BaiduYun]](dd)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -559,9 +565,8 @@ All saliency maps are provided by the authors or calculated using their released
 
 - [x] add scores in [Table](#table)
 - [x] add pre-computed saliency maps
-- [ ] add evaluation codes
 - [ ] add pre-computed `.mat` files
-
+- [ ] add evaluation codes
 
 ## Cite This Repo
 **If you find this code useful in your research, please consider citing:**
