@@ -558,9 +558,10 @@ All saliency maps are provided by the authors or calculated using their released
 ## TODO
 
 - [x] add scores in [Table](#table)
+- [x] add pre-computed saliency maps
 - [ ] add evaluation codes
 - [ ] add pre-computed `.mat` files
-- [ ] add pre-computed saliency maps (Emm...)
+
 
 ## Cite This Repo
 **If you find this code useful in your research, please consider citing:**
