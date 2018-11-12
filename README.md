@@ -561,3 +561,15 @@ All saliency maps are provided by the authors or calculated using their released
 - [ ] add evaluation codes
 - [ ] add pre-computed `.mat` files
 - [ ] add pre-computed saliency maps (Emm...)
+
+## Cite This Repo
+**If you find this code useful in your research, please consider citing:**
+
+```
+@article{sal_eval_toolbox,
+    Author = {Mengyang Feng},
+    Title = {Evaluation Toolbox for Salient Object Detection.},
+    Journal = {https://github.com/ArcherFMY/sal_eval_toolbox},
+    Year = {2018}
+}
+```
