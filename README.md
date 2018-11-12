@@ -46,6 +46,7 @@ NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Rea
 All saliency maps are provided by the authors or calculated using their released codes.
 
 ### ECSSD
+#### pre-computed saliency maps [BaiduYun](https://pan.baidu.com/s/1V0VHa0K1wueXKAmseD2vEQ)
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.935|.908|.042|.914|.839|
@@ -73,6 +74,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015      |.832|.807|.105|.776|.641|
 
 ### PASCAL-S
+#### pre-computed saliency maps [BaiduYun](ddd)
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.868|.826|.071|.849|.736|
@@ -100,6 +102,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015     |.768|.709|.146|.692|.541|
 
 ### DUT-OMRON
+#### pre-computed saliency maps [BaiduYun](https://pan.baidu.com/s/1mDA7R5K-hr-mfGZi0FsEfw)
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.797|.738|.057|.826|.653|
@@ -127,6 +130,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015     |.694|.644|.092|.721|.490|
 
 ### HKU-IS
+#### pre-computed saliency maps [BaiduYun](https://pan.baidu.com/s/1N64zLo7p0Z3f2aK1d9y0Bw)
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.923|.888|.036|.905|.814|
@@ -154,6 +158,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015     |.861|.784|.129|.810|.688|
 
 ### DUTS-test
+#### pre-computed saliency maps [BaiduYun](https://pan.baidu.com/s/19a26OE0wyrelxFned0cI9w)
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.862|.797|.046|.866|.721|
@@ -181,6 +186,7 @@ All saliency maps are provided by the authors or calculated using their released
 | MDF | 2015     |.730|.673|.094|.732|.504|
 
 ### SOD
+#### pre-computed saliency maps [BaiduYun](ddd)
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Ours | -     |.856|.809|.109|.777|.670|
