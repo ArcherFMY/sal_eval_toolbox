@@ -18,30 +18,129 @@ Only Deep Learning based methods for now.
 
 NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
 
-- 2018
+<body>
+  <table>
+<p style="text-align:center ">2018</p>
+    <tr>
+      <th>Method Name</th>
+      <td>BMPM</td>
+      <td>DGRL</td>
+      <td>PAGR</td>
+      <td>RAS</td>
+      <td>PiCANet</td>
+      <td>R3Net</td>
+    </tr>
+   <tr>
+      <th>Platform</th>
+      <td>Tensorflow</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>PyTorch</td>
+    </tr>
+    <tr>
+      <th>Model Size</th>
+      <td>-</td>
+      <td>648.0 MB</td>
+      <td>-</td>
+      <td>260.3 MB</td>
+      <td>153.3/197.2 MB (VGG/Res50) </td>
+      <td>225.3 MB</td>
+    </tr>
+  </table>
+  </body>
 
-|Methods |   |   |   |   |   |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| BMPM | DGRL| PAGR | RAS | PiCANet | R3Net |
+<body>
+  <table>
+<p style="text-align:center ">2017</p>
+    <tr>
+      <th>Method Name</th>
+      <td>Amulet</td>
+      <td>UCF</td>
+      <td>SRM</td>
+      <td>MSRNet</td>
+      <td>NLDF</td>
+      <td>DSS</td>
+    </tr>
+   <tr>
+      <th>Platform</th>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Tensorflow</td>
+      <td>Caffe</td>
+    </tr>
+    <tr>
+      <th>Model Size</th>
+      <td>132.6 MB</td>
+      <td>117.9 MB</td>
+      <td>213.1 MB</td>
+      <td>331.8 MB</td>
+      <td>425.9 MB </td>
+      <td>447.3 MB</td>
+    </tr>
+  </table>
+  </body>
 
-- 2017
-
-|Methods |   |   |   |   |   |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Amulet | UCF| SRM | MSRNet | NLDF | DSS |
-
-- 2016
-
-|Methods |   |   |   |   |   |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| RFCN | SCSD-HS| DS | ELD | DCL | DHS |
-
-- 2015
-
-|Methods |   |   |
-| :-: | :-: | :-: |
-| LEGS | MCDL| MDF |
-
+<body>
+  <table>
+<p style="text-align:center ">2016</p>
+    <tr>
+      <th>Method Name</th>
+      <td>RFCN</td>
+      <td>SCSD-HS</td>
+      <td>DS</td>
+      <td>ELD</td>
+      <td>DCL</td>
+      <td>DHS</td>
+    </tr>
+   <tr>
+      <th>Platform</th>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+    </tr>
+    <tr>
+      <th>Model Size</th>
+      <td>1126.4 MB</td>
+      <td>-</td>
+      <td>537.1 MB</td>
+      <td>667.2 MB</td>
+      <td>265.0 MB </td>
+      <td>376.2 MB</td>
+    </tr>
+  </table>
+  </body>
+  
+<body>
+  <table>
+<p style="text-align:center ">2015</p>
+    <tr>
+      <th>Method Name</th>
+      <td>LEGS</td>
+      <td>MCDL</td>
+      <td>MDF</td>
+    </tr>
+   <tr>
+      <th>Platform</th>
+      <td>Caffe</td>
+      <td>Caffe</td>
+      <td>Caffe</td>
+    </tr>
+    <tr>
+      <th>Model Size</th>
+      <td>73.6 MB</td>
+      <td>233.1 MB</td>
+      <td>330.8 MB</td>
+    </tr>
+  </table>
+  </body>
+  
 ## Table
 All saliency maps are provided by the authors or calculated using their released codes.
 
