@@ -20,123 +20,123 @@ NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Rea
 
 <body>
   <table>
-<p style="text-align:center ">2018</p>
+<p>2018</p>
     <tr>
       <th>Method Name</th>
-      <td>BMPM</td>
-      <td>DGRL</td>
-      <td>PAGR</td>
-      <td>RAS</td>
-      <td>PiCANet</td>
-      <td>R3Net</td>
+      <td align="center">BMPM</td>
+      <td align="center">DGRL</td>
+      <td align="center">PAGR</td>
+      <td align="center">RAS</td>
+      <td align="center">PiCANet</td>
+      <td align="center">R3Net</td>
     </tr>
    <tr>
       <th>Platform</th>
-      <td>Tensorflow</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>PyTorch</td>
+      <td align="center">Tensorflow</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">PyTorch</td>
     </tr>
     <tr>
       <th>Model Size</th>
-      <td>-</td>
-      <td>648.0 MB</td>
-      <td>-</td>
-      <td>260.3 MB</td>
-      <td>153.3/197.2 MB (VGG/Res50) </td>
-      <td>225.3 MB</td>
+      <td align="center">-</td>
+      <td align="center">648.0 MB</td>
+      <td align="center">-</td>
+      <td align="center">260.3 MB</td>
+      <td align="center">153.3/197.2 MB (VGG/Res50) </td>
+      <td align="center">225.3 MB</td>
     </tr>
   </table>
   </body>
 
 <body>
   <table>
-<p style="text-align:center ">2017</p>
+<p>2017</p>
     <tr>
       <th>Method Name</th>
-      <td>Amulet</td>
-      <td>UCF</td>
-      <td>SRM</td>
-      <td>MSRNet</td>
-      <td>NLDF</td>
-      <td>DSS</td>
+      <td align="center">Amulet</td>
+      <td align="center">UCF</td>
+      <td align="center">SRM</td>
+      <td align="center">MSRNet</td>
+      <td align="center">NLDF</td>
+      <td align="center">DSS</td>
     </tr>
    <tr>
       <th>Platform</th>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Tensorflow</td>
-      <td>Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Tensorflow</td>
+      <td align="center">Caffe</td>
     </tr>
     <tr>
       <th>Model Size</th>
-      <td>132.6 MB</td>
-      <td>117.9 MB</td>
-      <td>213.1 MB</td>
-      <td>331.8 MB</td>
-      <td>425.9 MB </td>
-      <td>447.3 MB</td>
+      <td align="center">132.6 MB</td>
+      <td align="center">117.9 MB</td>
+      <td align="center">213.1 MB</td>
+      <td align="center">331.8 MB</td>
+      <td align="center">425.9 MB </td>
+      <td align="center">447.3 MB</td>
     </tr>
   </table>
   </body>
 
 <body>
   <table>
-<p style="text-align:center ">2016</p>
+<p>2016</p>
     <tr>
       <th>Method Name</th>
-      <td>RFCN</td>
-      <td>SCSD-HS</td>
-      <td>DS</td>
-      <td>ELD</td>
-      <td>DCL</td>
-      <td>DHS</td>
+      <td align="center">RFCN</td>
+      <td align="center">SCSD-HS</td>
+      <td align="center">DS</td>
+      <td align="center">ELD</td>
+      <td align="center">DCL</td>
+      <td align="center">DHS</td>
     </tr>
    <tr>
       <th>Platform</th>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
     </tr>
     <tr>
       <th>Model Size</th>
-      <td>1126.4 MB</td>
-      <td>-</td>
-      <td>537.1 MB</td>
-      <td>667.2 MB</td>
-      <td>265.0 MB </td>
-      <td>376.2 MB</td>
+      <td align="center">1126.4 MB</td>
+      <td align="center">-</td>
+      <td align="center">537.1 MB</td>
+      <td align="center">667.2 MB</td>
+      <td align="center">265.0 MB </td>
+      <td align="center">376.2 MB</td>
     </tr>
   </table>
   </body>
   
 <body>
   <table>
-<p style="text-align:center ">2015</p>
+<p>2015</p>
     <tr>
       <th>Method Name</th>
-      <td>LEGS</td>
-      <td>MCDL</td>
-      <td>MDF</td>
+      <td align="center">LEGS</td>
+      <td align="center">MCDL</td>
+      <td align="center">MDF</td>
     </tr>
    <tr>
       <th>Platform</th>
-      <td>Caffe</td>
-      <td>Caffe</td>
-      <td>Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
+      <td align="center">Caffe</td>
     </tr>
     <tr>
       <th>Model Size</th>
-      <td>73.6 MB</td>
-      <td>233.1 MB</td>
-      <td>330.8 MB</td>
+      <td align="center">73.6 MB</td>
+      <td align="center">233.1 MB</td>
+      <td align="center">330.8 MB</td>
     </tr>
   </table>
   </body>
@@ -148,7 +148,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1V0VHa0K1wueXKAmseD2vEQ)
 
-> pre-computed `.mat` files [[BaiduYun]](dd)
+> pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -180,7 +180,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1trqJcCDSNNn08Dr6t_45Dw)
 
-> pre-computed `.mat` files [[BaiduYun]](dd)
+> pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -212,7 +212,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1mDA7R5K-hr-mfGZi0FsEfw)
 
-> pre-computed `.mat` files [[BaiduYun]](dd)
+> pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -244,7 +244,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1N64zLo7p0Z3f2aK1d9y0Bw)
 
-> pre-computed `.mat` files [[BaiduYun]](dd)
+> pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -276,7 +276,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/19a26OE0wyrelxFned0cI9w)
 
-> pre-computed `.mat` files [[BaiduYun]](dd)
+> pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -308,7 +308,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1jG0vQ_Ppw9xlCUEvae7s5g)
 
-> pre-computed `.mat` files [[BaiduYun]](dd)
+> pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
