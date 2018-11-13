@@ -183,8 +183,8 @@ All saliency maps are provided by the authors or calculated using their released
 > pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) | mean IoU | max IoU |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Ours | -     |.868|.826|.071|.849|.736|.|.|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ours | -     |.868|.826|.071|.849|.736|.743|.760|
 | BMPM | 2018    |.862|.769|.074|.845|.732|.728|.753|
 | DGRL | 2018    |.854|.825|.072|.836|.736|.742|.747|
 | PAGR | 2018    |.856|.807|.093|.818|.690|.664|.713|
@@ -670,7 +670,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 - [x] add scores in [Table](#table)
 - [x] add pre-computed saliency maps
-- [ ] add pre-computed `.mat` files
+- [x] add pre-computed `.mat` files
 - [ ] add evaluation codes
 
 ## Cite This Repo
