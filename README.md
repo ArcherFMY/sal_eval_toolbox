@@ -44,7 +44,7 @@ NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Rea
       <td align="center">-</td>
       <td align="center">648.0 MB</td>
       <td align="center">-</td>
-      <td align="center">260.3 MB</td>
+      <td align="center">77.2 MB</td>
       <td align="center">153.3/197.2 MB (VGG/Res50) </td>
       <td align="center">225.3 MB</td>
     </tr>
