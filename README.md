@@ -1,5 +1,5 @@
 # Evaluation Toolbox for Salient Object Detection 
-Under construction ......
+To use this toolbox, read [README.md](./tools/README.md) in folder 'tools'.
 
 ## Datasets [[citations]](#benchmarks)
 - ECSSD  [`link`](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)
@@ -667,7 +667,7 @@ All saliency maps are provided by the authors or calculated using their released
 - [x] add scores in [Table](#table)
 - [x] add pre-computed saliency maps
 - [x] add pre-computed `.mat` files
-- [ ] add evaluation codes
+- [x] add evaluation codes
 
 ## Cite This Repo
 **If you find this code useful in your research, please consider citing:**
