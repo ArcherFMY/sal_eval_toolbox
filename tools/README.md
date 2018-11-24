@@ -38,8 +38,9 @@ The default folder to save the results is `Dataset.savedir`
 ### select results to be evaluate
 
 ```
+set_format = false;
 [alg_params, runNum, path, cancel]...
-                                = select_Alg(Dataset.datasetName);
+                                = select_Alg(Dataset.datasetName, set_format);
 if cancel == 1
     plotMetrics = 'User canceled during selecting new algorithms to evaluate!\n';
     return;
