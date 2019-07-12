@@ -22,6 +22,7 @@ function [alg_params, runNum, path, cancel]       = select_Alg(Dataset, set_form
     runNum                      = size(new_method_names,1);
     alg_params         = {};
     fprintf('\nSelecting...\n');
+    fprintf('Path:%s\nProject:\n', path);
     for new_ind = 1 : runNum
         if set_format == 1
             temp = inputdlg({'Name','Prefix','Postfix','Ext'},...

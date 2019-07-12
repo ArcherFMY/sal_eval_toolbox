@@ -1,6 +1,8 @@
-%%
 function Metrics = ...
-    performCalcu(datasetStruct,algStructArray) 
+    performCalcu(datasetStruct, algStructArray, gtMapThreshold) 
+%% parameters
+% We must know, when we readin the gtMap, we need to make it to a binary
+% map, so, here, author use 0.1
 
 evaluateSal = @(sMap,thresholds,gtMap) thresholdBased_HR_FR(sMap,thresholds,gtMap);
 
@@ -39,7 +41,7 @@ for imIndx=1:numOfFiles
     end
     
     
-    gtMap = logical(gtMap>=0.1); % get binary mask
+    gtMap    = logical(gtMap>=gtMapThreshold); % get binary mask
     totalNum = numOfFiles* ones(numOfAlgos,1); %3*1   ( [totalImgNum;totalImgNum;totalImgNum;totalImgNum] ) 
     for algIdx = 1:numOfAlgos % compute over each algorithms iteratively
         sMap = readSaliencyMap(algStructArray{algIdx},[base_name],gtSize);% read and resize saliency maps
