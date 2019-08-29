@@ -14,9 +14,9 @@ To use this toolbox, read [README.md](./tools/README.md) in folder 'tools'.
 - SED  [`link`](http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB/dl.html)
 
 ## Methods [[citations]](#algorithms)
-Only Deep Learning based methods for now.
+Only fully supervised Deep Learning based methods are included.
 
-NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
+NOTE: please see my another [repo](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md) to get the papers.
 
 <body>
   <table>
