@@ -24,14 +24,26 @@ NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Rea
     <tr>
       <th>Method Name</th>
       <td align="center">AFNet</td>
+      <td align="center">PoolNet</td>
+      <td align="center">BASNet</td>
+      <td align="center">CPD</td>
+      <td align="center">MLMSNet</td>
     </tr>
    <tr>
       <th>Platform</th>
       <td align="center">Caffe</td>
+      <td align="center">PyTorch</td>
+      <td align="center">PyTorch</td>
+      <td align="center">PyTorch</td>
+      <td align="center">PyTorch</td>
     </tr>
     <tr>
       <th>Model Size</th>
-      <td align="center">143.9</td>
+      <td align="center">143.9 MB</td>
+      <td align="center">278.5 MB (ResNet50)</td>
+      <td align="center">348.5 MB (ResNet34)</td>
+      <td align="center">192.0 MB (ResNet50)</td>
+      <td align="center">297.6 MB </td>
     </tr>
   </table>
   </body>
@@ -60,11 +72,11 @@ NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Rea
     <tr>
       <th>Model Size</th>
       <td align="center">-</td>
-      <td align="center">648.0 MB</td>
+      <td align="center">648.0 MB (ResNet50)</td>
       <td align="center">-</td>
       <td align="center">81.0 MB</td>
-      <td align="center">153.3/197.2 MB (VGG/Res50) </td>
-      <td align="center">225.3 MB</td>
+      <td align="center">153.3/197.2 MB (VGG/ResNet50) </td>
+      <td align="center">225.3 MB (ResNeXt101)</td>
     </tr>
   </table>
   </body>
@@ -94,7 +106,7 @@ NOTE: papers please see my another [repo](https://github.com/ArcherFMY/Paper_Rea
       <th>Model Size</th>
       <td align="center">132.6 MB</td>
       <td align="center">117.9 MB</td>
-      <td align="center">213.1 MB</td>
+      <td align="center">213.1 MB (ResNet50)</td>
       <td align="center">331.8 MB</td>
       <td align="center">425.9 MB </td>
       <td align="center">447.3 MB</td>
@@ -170,6 +182,10 @@ All saliency maps are provided by the authors or calculated using their released
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) | mean IoU | max IoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| MLMSNet | 2019     |.928|.868|.045|.911|.838|.821|.854|
+| CPD-R | 2019     |.939|.917|.037|.918|.849|.847|.865|
+| BASNet | 2019     |.942|.879|.037|.916|.860|.855|.870|
+| PoolNet | 2019     |.949|.918|.035|.926|.862|.858|.879|
 | AFNet | 2019     |.935|.908|.042|.914|.839|.835|.857|
 | BMPM | 2018     |.929|.869|.045|.911|.838|.821|.854|
 | DGRL | 2018     |.922|.906|.041|.903|.830|.838|.846|
@@ -202,6 +218,10 @@ All saliency maps are provided by the authors or calculated using their released
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) | mean IoU | max IoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| MLMSNet | 2019    |.862|.769|.074|.845|.732|.728|.753|
+| CPD-R | 2019    |.869|.829|.072|.847|.726|.743|.757|
+| BASNet | 2019    |.862|.779|.077|.837|.733|.740|.749|
+| PoolNet | 2019    |.890|.837|.065|.866|.763|.768|.784|
 | AFNet | 2019    |.868|.826|.071|.850|.736|.743|.760|
 | BMPM | 2018    |.862|.769|.074|.845|.732|.728|.753|
 | DGRL | 2018    |.854|.825|.072|.836|.736|.742|.747|
@@ -234,6 +254,10 @@ All saliency maps are provided by the authors or calculated using their released
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) | mean IoU | max IoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| MLMSNet | 2019    |.774|.692|.064|.809|.632|.627|.654|
+| CPD-R | 2019    |.796|.747|.056|.824|.656|.659|.681|
+| BASNet | 2019    |.805|.755|.057|.836|.682|.699|.711|
+| PoolNet | 2019    |.805|.752|.054|.831|.670|.669|.692|
 | AFNet | 2019    |.797|.738|.057|.826|.653|.660|.682|
 | BMPM | 2018    |.774|.692|.064|.809|.632|.627|.654|
 | DGRL | 2018    |.774|.733|.062|.806|.640|.649|.657|
@@ -266,6 +290,10 @@ All saliency maps are provided by the authors or calculated using their released
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) | mean IoU | max IoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| MLMSNet | 2019    |.921|.871|.039|.906|.818|.801|.838|
+| CPD-R | 2019    |.927|.894|.033|.908|.819|.817|.839|
+| BASNet | 2019    |.928|.896|.032|.909|.839|.832|.848|
+| PoolNet | 2019    |.936|.903|.030|.919|.840|.834|.858|
 | AFNet | 2019    |.923|.888|.036|.905|.814|.809|.835|
 | BMPM | 2018    |.921|.871|.039|.907|.818|.801|.838|
 | DGRL | 2018    |.910|.890|.036|.895|.802|.811|.820|
@@ -298,6 +326,10 @@ All saliency maps are provided by the authors or calculated using their released
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) | mean IoU | max IoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| MLMSNet | 2019    |.851|.751|.049|.861|.706|.698|.736|
+| CPD-R | 2019    |.866|.810|.044|.869|.724|.725|.752|
+| BASNet | 2019    |.859|.796|.048|.865|.742|.741|.756|
+| PoolNet | 2019    |.889|.825|.037|.886|.759|.754|.783|
 | AFNet | 2019    |.862|.797|.046|.866|.721|.719|.748|
 | BMPM | 2018    |.851|.751|.049|.861|.706|.698|.736|
 | DGRL | 2018    |.829|.798|.050|.841|.692|.703|.713|
@@ -330,6 +362,10 @@ All saliency maps are provided by the authors or calculated using their released
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) | mean IoU | max IoU |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| MLMSNet | 2019    |.855|.763|.107|.787|.675|.633|.692|
+| CPD-R | 2019    |.860|.810|.111|.768|.670|.616|.691|
+| BASNet | 2019    |.851|.745|.113|.769|.662|.635|.673|
+| PoolNet | 2019    |.875|.830|.104|.788|.708|.652|.725|
 | AFNet | 2019    |.856|.809|.109|.777|.670|.626|.693|
 | BMPM | 2018    |.855|.763|.107|.787|.675|.633|.692|
 | DGRL | 2018    |.845|.799|.104|.771|.655|.642|.668|
@@ -464,6 +500,51 @@ All saliency maps are provided by the authors or calculated using their released
 }
 ```
 #### algorithms
+```
+%MLMSNet
+@InProceedings{WuRunMin_2019_CVPR,
+   author = {Wu, Runmin and Feng, Mengyang and Guan, Wenlong and Wang, Dong and Lu, Huchuan and Ding, Errui},
+   title = {A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision},
+   booktitle = CVPR,
+   year = {2019}
+}
+```
+```
+%CPD
+@InProceedings{Wu_2019_CVPR,
+   author = {Wu, Zhe and Su, Li and Huang, Qingming},
+   title = {Cascaded Partial Decoder for Fast and Accurate Salient Object Detection},
+   booktitle = CVPR,
+   year = {2019}
+}
+```
+```
+%BASNet
+@InProceedings{Qin_2019_CVPR,
+   author = {Qin, Xuebin and Zhang, Zichen and Huang, Chenyang and Gao, Chao and Dehghan, Masood and Jagersand, Martin},
+   title = {BASNet: Boundary-Aware Salient Object Detection},
+   booktitle = CVPR,
+   year = {2019}
+}
+```
+```
+%PoolNet
+@inproceedings{Liu2019PoolSal,
+   title={A Simple Pooling-Based Design for Real-Time Salient Object   Detection},
+   author={Liu, Jiang-Jiang and Hou, Qibin and Cheng, Ming-Ming and Feng, Jiashi and Jiang, Jianmin},
+   booktitle = CVPR,
+   year = {2019},
+}
+```
+```
+%AFNet
+@InProceedings{Feng_2019_CVPR,
+   author = {Feng, Mengyang and Lu, Huchuan and Ding, Errui},
+   title = {Attentive Feedback Network for Boundary-aware Salient Object Detection},
+   booktitle = CVPR,
+   year = {2019}
+}
+```
 ```
 % BMPM
 @inproceedings{zhang2018bi,
