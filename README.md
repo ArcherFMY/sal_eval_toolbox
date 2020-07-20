@@ -214,6 +214,8 @@ All saliency maps are provided by the authors or calculated using their released
 
 > pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1f7vPOyTKLpBw7ZLwwG1Nkg) Fetch Code: pknw
 
+IT'S WEIRD！！！！！THE LINK WILL BE INVALID A FEW DAYS AFTER I UPDATED IT！！！！！
+
 > pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
 |Methods | year | max F-measure | mean F-measure | MAE | [S-measure](https://github.com/DengPingFan/S-measure) | IoU(@ max Fm) | mean IoU | max IoU |
