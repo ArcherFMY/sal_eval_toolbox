@@ -212,7 +212,7 @@ All saliency maps are provided by the authors or calculated using their released
 
 ### PASCAL-S
 
-> pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1p2tvoqKFJjG5HwS_GtBmVw) Fetch Code: a9v6
+> pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1f7vPOyTKLpBw7ZLwwG1Nkg) Fetch Code: pknw
 
 > pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
