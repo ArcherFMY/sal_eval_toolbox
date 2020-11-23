@@ -212,9 +212,9 @@ All saliency maps are provided by the authors or calculated using their released
 
 ### PASCAL-S
 
-> pre-computed saliency maps [[BaiduYun]](https://pan.baidu.com/s/1-0qx0Z4YFQTQI0ViWeRmWg) Fetch Code: rv6h
+> pre-computed saliency maps ~~[[BaiduYun]](https://pan.baidu.com/s/1-0qx0Z4YFQTQI0ViWeRmWg) Fetch Code: rv6h~~ [[Google Drive]](https://drive.google.com/drive/folders/1AfeG3df00j5XUyxjl6d4w7PRgM4U8HNL?usp=sharing)
 
-IT'S WEIRD！！！！！THE LINK WILL BE INVALID A FEW DAYS AFTER I UPDATED IT！！！！！
+~~IT'S WEIRD！！！！！THE LINK WILL BE INVALID A FEW DAYS AFTER I UPDATED IT！！！！！~~
 
 > pre-computed `.mat` files [[BaiduYun]](dd) (please contact me if you need this)
 
